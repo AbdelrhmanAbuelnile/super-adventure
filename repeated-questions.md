@@ -1,4 +1,3 @@
-Based on the provided exam documents, here is the refined categorized list of repeated questions. This list includes the exact raw equations, data, and code blocks from the sources, followed by the specific question labeling and point values for each year.
 Chapter 12: Instruction Sets: Characteristics and Functions
 
 1. Multi-Address Machine Code Comparison
